@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to "complete" any project I start.
 - 💞️ I’m looking to collaborate on something useful.
 - 📫 You can reach me on my discord, Jemy Jenesh#1398.
-- Arsenal: React and Laravel
+- &#9876; Arsenal: React and Laravel
 
 <!---
 JemyJenesh/JemyJenesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
